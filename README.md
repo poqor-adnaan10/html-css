@@ -1,2 +1,2 @@
 # html-css
-i build registration using html and css
+i build registration webpage using html and css
